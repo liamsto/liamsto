@@ -5,11 +5,9 @@ but these are the most interesting ones, in no particular order. All these machi
 
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 33.3333%;">
-    <col style="width: 33.3333%;">
-    <col style="width: 33.3333%;">
+    <col style="width: 50%;">
+    <col style="width: 50%;">
   </colgroup>
-
   <tr>
     <td align="center" style="vertical-align: top;">
       <table style="width: 100%; border-collapse: collapse;">
@@ -33,6 +31,8 @@ but these are the most interesting ones, in no particular order. All these machi
              style="width: 320px; max-width: 100%; height: auto;">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="vertical-align: top;">
       <table style="width: 100%; border-collapse: collapse;">
         <tr><td align="left"><strong>Description</strong></td><td align="left">Strategic Thinker - owned the Toby machine</td></tr>
@@ -44,8 +44,6 @@ but these are the most interesting ones, in no particular order. All these machi
              style="width: 320px; max-width: 100%; height: auto;">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="vertical-align: top;">
       <table style="width: 100%; border-collapse: collapse;">
         <tr><td align="left"><strong>Description</strong></td><td align="left">Echoed Back - owned the echoland challenge</td></tr>
@@ -57,7 +55,5 @@ but these are the most interesting ones, in no particular order. All these machi
              style="width: 320px; max-width: 100%; height: auto;">
       </a>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
