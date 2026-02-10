@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="[https://labs.hackthebox.com/achievement/badge/481501/216](https://labs.hackthebox.com/achievement/badge/preview/481501/292.png)">
-  <img src="DIRECT_IMAGE_URL" alt="HTB badge" width="180">
+<a href="https://labs.hackthebox.com/achievement/badge/481501/292">
+  <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/292.png" alt="HTB badge" width="180">
 </a>
