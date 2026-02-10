@@ -57,7 +57,6 @@ but these are the most interesting ones, in no particular order. All these machi
              style="width: 320px; max-width: 100%; height: auto;">
       </a>
     </td>
-
     <td></td>
     <td></td>
   </tr>
