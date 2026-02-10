@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://labs.hackthebox.com/achievement/badge/481501/292">
-  <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/292.png" alt="HTB badge" width="180">
+  <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/292.png" alt="HTB badge" width="400">
 </a>
