@@ -16,7 +16,6 @@ but these are the most interesting ones, in no particular order. Click on any of
              alt="HTB badge: Completed the Twelve Labours" width="320">
       </a>
     </td>
-
     <td align="center">
       <div><strong>Pivoter</strong></div>
       <div>Rarity: 0.04% of users</div>
@@ -25,7 +24,6 @@ but these are the most interesting ones, in no particular order. Click on any of
              alt="HTB badge: Pivoter" width="320">
       </a>
     </td>
-
     <td align="center">
       <div><strong>Strategic Thinker</strong></div>
       <div>Rarity: 0.01% of users</div>
