@@ -4,12 +4,12 @@
 ### HackTheBox Badges
 Below are some of the rarest HTB badges I've achieved. I have more,
 <a href="https://app.hackthebox.com/users/481501?tab=badges">of course</a>,
-but these are the most interesting ones, in no particular order. Click on any of the images to view them on my HTB profile:
+but these are the most interesting ones, in no particular order. All these machines and challenges are Insane level difficulty. Click on any of the images to view them on my HTB profile and see the rarities for yourself:
 
 <table>
   <tr>
     <td align="center">
-      <div><strong>Completed the Twelve Labours</strong></div>
+      <div><strong>Completed the Twelve Labours - owned the Hercules machine</strong></div>
       <div>Rarity: 0.05% of users</div>
       <a href="https://labs.hackthebox.com/achievement/badge/481501/292">
         <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/292.png"
@@ -17,7 +17,7 @@ but these are the most interesting ones, in no particular order. Click on any of
       </a>
     </td>
     <td align="center">
-      <div><strong>Pivoter</strong></div>
+      <div><strong>Pivoter - owned the PivotAPI machine</strong></div>
       <div>Rarity: 0.04% of users</div>
       <a href="https://labs.hackthebox.com/achievement/badge/481501/111">
         <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/111.png"
@@ -25,10 +25,20 @@ but these are the most interesting ones, in no particular order. Click on any of
       </a>
     </td>
     <td align="center">
-      <div><strong>Strategic Thinker</strong></div>
+      <div><strong>Strategic Thinker - owned the Toby machine</strong></div>
       <div>Rarity: 0.01% of users</div>
       <a href="https://labs.hackthebox.com/achievement/badge/481501/114">
         <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/114.png"
+             alt="HTB badge: Strategic Thinker" width="320">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div><strong>Echoed Back - owned the echoland challenge</strong></div>
+      <div>Rarity: 0.01% of users</div>
+      <a href="https://labs.hackthebox.com/achievement/badge/481501/89">
+        <img src="https://labs.hackthebox.com/achievement/badge/preview/481501/89.png"
              alt="HTB badge: Strategic Thinker" width="320">
       </a>
     </td>
