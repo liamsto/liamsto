@@ -1,5 +1,7 @@
 ## Hello, I'm Liam.
 
+Here is my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/61E6FE6B6216C83B3C7DCE1785088E0E7E447444) for my Git email.
+
 ### About me
 I’m an offensive security practitioner, primarily training on Hack The Box (see my profile for stats and progress tracking). On the offensive side my favourites are:
 * AD/LDAP exploitation: BloodHound, Kerberos abuse (AS-REP roasting, Kerberoasting, constrained/unconstrained delegation), ACL/GPO misconfig, certificate service attacks, lateral movement, and privilege escalation in enterprise environments.
