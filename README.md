@@ -1,14 +1,14 @@
 ## Hello, I'm Liam.
 
-Here is my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/61E6FE6B6216C83B3C7DCE1785088E0E7E447444) for my Git email.
+Here is my [PGP public key](https://keys.openpgp.org/vks/v1/by-fingerprint/61E6FE6B6216C83B3C7DCE1785088E0E7E447444) for my Git email.
 
 ### About me
 I’m an offensive security practitioner, primarily training on Hack The Box (see my profile for stats and progress tracking). On the offensive side my favourites are:
 * AD/LDAP exploitation: BloodHound, Kerberos abuse (AS-REP roasting, Kerberoasting, constrained/unconstrained delegation), ACL/GPO misconfig, certificate service attacks, lateral movement, and privilege escalation in enterprise environments.
 * C2 frameworks: [Mythic](https://github.com/its-a-feature/mythic), [Sliver](https://github.com/bishopfox/sliver)
-* Binary exploitation and RE: vulnerability discovery and exploit development across a wide variety of architectures (mainly AMD64, but also a handful of RISC architectures, primarily ARM), modern mitigations (ASLR, NX, PIE, canaries, RELRO) and bypass strategies, ROP chaining, and binary debugging and disassembly/RE (pwndbg and Ghidra).
-* Web exploitation: authentication/authorization flaws, injection classes (SQLi/NoSQLi/command injection), SSRF/file inclusion/deserialization. 
-* Wireless and network offensive operations: Wi-Fi security assessment (WPA2/WPA3, rogue AP/evil-twin), internal network service exploitation (SMB/WinRM/RPC/LDAP chaining), and traffic analysis for credential exposure and pivot.
+* Binary exploitation and RE: vulnerability discovery and exploit development across a wide variety of architectures (mainly AMD64, but also a handful of RISC architectures, mainly ARM and RISC-V), modern mitigations (ASLR, NX, PIE, canaries, RELRO) and bypasses, ROP chaining, and binary debugging and disassembly/RE (pwndbg and Ghidra).
+* Web exploitation: authentication/authorization flaws, injection classes (SQLi/NoSQLi/command injection), SSRF/file inclusion/deserialization, BurpSuite. 
+* Wireless and network offensive operations: Wi-Fi security (WPA2/WPA3, rogue AP/evil-twin), internal network service exploitation (SMB/WinRM/RPC/LDAP), and traffic analysis.
 
 On the defensive side:
 * Reverse engineering (Ghidra, mainly): static analysis, function and type recovery, decompilation.
